@@ -1,13 +1,11 @@
-# challenge-amigo-secreto
+# Challenge-amigo-secreto
 Es un juego en donde ingresa el nombre de mínimo 2 personas y los nombres serán sorteados para elegir uno.
 
 
 # Como Jugar
 1. Debes ingresar uno por uno los nombres de los amigos que van a participar en el recuadro y después dar clic al botón "Agregar".
 
-<p align="center">
-  <img src="img/agregar.png" style="border-radius: 10px;">
-</p>
+![](assets/agregar.png)
 
 2. Cuando ya tenga la cantidad de amigos deseada mínimo 2 nombres, le damos clic al botón "Sortear amigo" y nos arrojara el nombre del amigo sorteado.
 
